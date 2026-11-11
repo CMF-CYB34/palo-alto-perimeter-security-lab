@@ -1,6 +1,6 @@
 # Palo Alto Perimeter Security Lab
 
-[Read the Full Lab Notes (PDF)](./Palo%20Alto%20Perimeter%20Security%20Deployment.pdf)
+[Read the Full Lab Notes (PDF)](./palo_alto_perimeter_security_deployment.pdf)
 
 ## Overview
 These lab notes document the configuration, troubleshooting, and validation of a segmented enterprise perimeter using a Palo Alto Networks firewall. Starting from a baseline image, the deployment establishes Layer 3 security zones, virtual routing, dynamic Source NAT, App-ID security policies, and unified threat inspection across internal, extranet, and external networks.
